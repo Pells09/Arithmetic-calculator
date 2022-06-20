@@ -1,4 +1,4 @@
-<script>
+
       //creating a calculator using  the if...else...if in JS.
       const operator= prompt ('Enter operator to perform the calculation(either +, -, * or /): ');
       const number1= parseFloat (prompt('Enter first number:'));
@@ -17,4 +17,4 @@
            }
       // result of the calculations
       window.alert ("Result is"  +  result);
-    </script>
+
