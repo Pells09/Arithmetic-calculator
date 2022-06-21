@@ -16,4 +16,4 @@ result = number1 * number2;
 else {result = number1 / number2; //use / (division) operator to divide two numbers
 }
 //result of the calculations
-window: alert (" Result is " + result);
+window. alert (" Result is " + result);
